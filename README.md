@@ -5,7 +5,7 @@ Present in this repository:\
 
 Collaborators on the project:\
 @Roey-Shap - NodeJS/Express Server, Web Frontend in ReactJS, finishing Mobile Frontend in React Native\
-  https://github.com/Roey-Shap\
+  https://github.com/Roey-Shap \
 @RoyMishael - Mobile Frontend in React Native\
   https://github.com/RoyMishael
   
