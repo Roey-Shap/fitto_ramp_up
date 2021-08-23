@@ -1,0 +1,18 @@
+{
+  "profilePicture": null,
+  "userName": "Roey",
+  "address": {
+    "street": "Berkeley Place",
+    "streetNumber": 0,
+    "city": "Default City",
+    "zipCode": "00000",
+    "country": "Default Country"
+  },
+  "email": "BACKEND@test.none",
+  "birthday": {
+    "year": 2000,
+    "month": 10,
+    "day": 15
+  },
+  "defaultDate": "2000-11-14T22:00:00.000Z"
+}
