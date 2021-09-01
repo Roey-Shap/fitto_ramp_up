@@ -17,7 +17,7 @@ App explanation:
 The app is based on 4 screens and a navigation bar:
 * Homescreen - shows you: Info screen, Products list screen (which also can be accessed by cart icon in the navigation bar) , user screen (which also can be accessed by user icon in the navigation bar)
 
-*Carts/Product screen - a list that is fetched by Heroku app server that is also connected to Roey site. The amount of products is also being shown in the cart icon navigation bar through all screens.
+* Carts/Product screen - a list that is fetched by Heroku app server that is also connected to Roey site. The amount of products is also being shown in the cart icon navigation bar through all screens.
 
 * Info Screen - Simple text info screen
 
