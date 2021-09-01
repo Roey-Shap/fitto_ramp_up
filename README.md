@@ -1,5 +1,5 @@
 # fitto_ramp_up
-Roey's fitto ramp-up project repository\
+Roy & Roey's fitto ramp-up intern project repository\
 Present in this repository:\
 --> NodeJS and ReactJS sides, lacking some functionality which is noted in the code (namely, some profile information bugs and a lack of automated QA tests)
 
