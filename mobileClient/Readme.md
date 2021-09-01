@@ -21,7 +21,7 @@ The app is based on 4 screens and a navigation bar:
 
 * Info Screen - Simple text info screen
 
-*User Screen - A user screen fetched by Roey Heroku app server and also connected to the site (can be navigated from the navigation bar) 
+* User Screen - A user screen fetched by Roey Heroku app server and also connected to the site (can be navigated from the navigation bar) 
 
 * The navigation bar is using  Stack Navigator
 
